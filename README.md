@@ -1,107 +1,239 @@
 <div align="center">
 
-# Hi there, I'm Weimin! (孔维民) 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hey, I'm Weimin (孔维民)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=29B6F6&center=true&vCenter=true&width=600&height=50&lines=Rust+Developer;Backend+Enthusiast;Building+AI+Agents;Open+to+Internship+Opportunities!" alt="Typing SVG" />
+```text
+> cargo run
+Initializing developer profile...
 
-<p align="center">
-  <a href="mailto:weiminkong2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+✓ Rust Backend
+✓ AI Agents
+✓ LLM Engineering
 
-  <a href="https://twitter.com/naq37045">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
+Status: Looking for Internship
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Reliable+Software+with+Rust;Developing+LLM+Applications;AI+Agent+Engineering;Backend+%7C+Open+Source+%7C+Systems" />
+
+<p>
+
+<a href="mailto:weiminkong2@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+<a href="https://twitter.com/naq37045">
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=58A6FF"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=weimin69&style=for-the-badge&color=58A6FF"/>
+
 </p>
 
 </div>
 
 ---
 
-# 🦀 About Me
+# ⚡ About
 
-I'm a Computer Science student passionate about **Rust**, **Backend Engineering**, and **AI Agents**.
+```rust
+struct Developer {
+    name: &'static str,
+    role: &'static str,
+    university: &'static str,
+    language: &'static str,
+    interests: Vec<&'static str>,
+}
 
-I enjoy building reliable software, developer tools, and intelligent applications powered by Large Language Models.
+let me = Developer {
+    name: "Weimin",
+    role: "Rust Backend Developer",
+    university: "Dalian Maritime University",
+    language: "Rust",
+    interests: vec![
+        "AI Agents",
+        "LLMs",
+        "Backend Engineering",
+        "Distributed Systems",
+        "Open Source",
+    ],
+};
+```
 
-- 🏫 Computer Science @ **Dalian Maritime University (DMU)**
-- 🦀 Primary language: **Rust**
-- 🤖 Interested in **LLMs**, **AI Agents**, **RAG**, and AI application engineering
-- ⚙️ Exploring **Backend Development**, distributed systems, and developer tooling
-- 🐍 Use **Python** mainly for AI prototyping and automation
-- 💼 Currently looking for internship opportunities in **Rust Backend**, **AI Infrastructure**, or **LLM / Agent Engineering**
-
-> **Build reliable software. Keep learning. Stay curious.**
+> I enjoy building reliable backend systems, developer tools, and intelligent applications powered by Large Language Models.
 
 ---
 
-# 🛠 Tech Stack
+# 🦀 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<p>
 
-<img src="https://img.shields.io/badge/Tokio-EF3939?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=rust"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://img.shields.io/badge/AI_Agents-FF8F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-5E35B1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
 
 </p>
 
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+</p>
+
+### AI
+
+```text
+LLMs
+AI Agents
+RAG
+MCP
+Prompt Engineering
+OpenAI
+Anthropic
+DeepSeek
+```
+
 ---
 
-# 📈 GitHub Stats
+# 🚀 Current Mission
+
+```text
+> Learning Rust Async Ecosystem...
+
+[██████████░░░░░░░░] 55%
+
+✓ Rust
+
+✓ Tokio
+
+✓ Axum
+
+✓ SQLx
+
+✓ PostgreSQL
+
+✓ AI Agents
+
+✓ RAG
+
+✓ MCP
+```
+
+---
+
+# 📂 Featured Projects
+
+### 🦀 Harness Agent
+
+> AI Agent CLI written in Rust.
+
+---
+
+### 🤖 AI Hook Lab
+
+> Prompt engineering & AI application playground.
+
+---
+
+### 🔍 RAG Playground
+
+> Experimenting with Retrieval-Augmented Generation.
+
+---
+
+### ⚙️ Rust Backend
+
+> Building production-ready backend services.
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=weimin69&show_icons=true&theme=nord&hide_border=true&title_color=29B6F6&icon_color=FFD54F&text_color=E0E0E0&bg_color=1E1E1E" width="48%"/>
+<!-- Replace with your own deployed github-readme-stats -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weimin69&layout=compact&theme=nord&hide_border=true&title_color=29B6F6&text_color=E0E0E0&bg_color=1E1E1E&langs_count=6"/>
+<img width="48%" src="YOUR_STATS_URL"/>
+
+<img width="48%" src="YOUR_LANG_URL"/>
 
 </div>
 
 ---
 
-# 🚀 Current Focus
+# 📚 Currently Learning
 
-Currently learning and building around:
-
-- 🦀 Rust ecosystem (Tokio / Axum / Async)
-- 🤖 AI Agents
-- 🧠 Large Language Models
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ Backend Engineering
-- 🔧 Developer Tools
-- 🌐 Open Source
-
----
-
-# 🤝 Let's Connect
-
-I'm always happy to connect with developers who are interested in Rust, AI, backend engineering, or open source.
-
-If you'd like to collaborate, discuss ideas, or simply chat about technology, feel free to reach out.
-
-### 📫 Find me here
-
-- **X (Twitter):** https://twitter.com/naq37045
-- **Email:** weiminkong2@gmail.com
+```text
+Rust Async Programming
+Backend Architecture
+Distributed Systems
+AI Agent Frameworks
+Model Context Protocol (MCP)
+System Design
+```
 
 ---
 
-<p align="center">
+# 💻 Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=90A4AE&center=true&vCenter=true&width=700&height=30&lines=Building+Reliable+Software+with+Rust...;Exploring+LLMs+and+AI+Agents...;Always+Learning.+Always+Building." />
+```text
+while (alive) {
 
-</p>
+    learn();
+
+    build();
+
+    share();
+
+}
+```
+
+---
+
+# 🌌 Connect
+
+```yaml
+Email:
+  weiminkong2@gmail.com
+
+X:
+  @naq37045
+
+GitHub:
+  github.com/weimin69
+```
+
+---
+
+<div align="center">
+
+```text
+──────────────────────────────────────────────
+
+> cargo build
+
+Compiling...
+
+Building future...
+
+Finished in 20 years.
+
+──────────────────────────────────────────────
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Stay+Curious.;Build+Things.;Hack+the+Future.;Rust+%2B+AI+%2B+Open+Source."/>
+
+</div>
