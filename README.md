@@ -2,6 +2,8 @@
 
 # Weimin (孔维民)
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Rust+Backend+Developer;Building+AI+Agents;Backend+Engineering;Open+Source+Enthusiast;Always+Learning..." />
+
 ```text
 > whoami
 
