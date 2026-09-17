@@ -1,167 +1,28 @@
-<div align="center">
+Hi, I’m WeiminKong
+==================
 
-# Weimin (孔维民)
+I’m a Computer Science student interested in AI agents, systems programming, and developer tools.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Rust+Backend+Developer;Building+AI+Agents;Backend+Engineering;Open+Source+Enthusiast;Always+Learning..." />
+What I’m working on
+-------------------
+* AI Agent CLI — building an agent runtime and developer tooling in Rust
+* Mini Git — learning version control by implementing Git from scratch
+* Operating Systems — exploring kernels, low-level programming, and computer systems
 
-```text
-> whoami
 
-Rust Backend Developer
-AI Agent Engineer
-Computer Science Student
-Open Source Enthusiast
-```
+Tech 
+----
+Rust . Python . Git . MacOS
 
-```text
-Status: Open to Internship Opportunities
-```
+Links
+-----
+* Projects: See my pinned repositories below
+* GitHub: You’re already here
+* Email:weiminkong2@gmail.com
 
-</div>
 
----
-
-# About
-
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    university: &'static str,
-    primary_language: &'static str,
-}
-
-let me = Developer {
-    name: "Weimin",
-    role: "Rust Backend Developer",
-    university: "Dalian Maritime University",
-    primary_language: "Rust",
-};
-```
-
-I'm a Computer Science student focused on **Rust**, **Backend Engineering**, and **AI Agents**.
-
-I enjoy building reliable software, developer tools, and intelligent systems powered by Large Language Models.
-
-Currently exploring:
-
-- AI Agents
-- LLM Engineering
-- Distributed Systems
-- Backend Architecture
-- Open Source
-
----
-
-# Tech Stack
-
-## Languages
-
-```text
-Rust
-Python
-C++
-SQL
-Bash
-```
-
-## Backend
-
-```text
-Tokio
-Axum
-SQLx
-PostgreSQL
-REST API
-```
-
-## AI
-
-```text
-LLMs
-AI Agents
-RAG
-Model Context Protocol (MCP)
-Prompt Engineering
-OpenAI API
-Anthropic API
-```
-
-## Tools
-
-```text
-Git
-Linux
-Docker
-VS Code
-GitHub
-```
-
----
-
-# Current Focus
-
-```text
-Learning
-
-████████████████░░░░ 80%
-
-✓ Rust Async Programming
-
-✓ Tokio Ecosystem
-
-✓ Backend Engineering
-
-✓ AI Agent Architecture
-
-✓ Distributed Systems
-
-□ Kubernetes
-
-□ AWS
-```
-
----
-
-# Philosophy
-
-```rust
-loop {
-    learn();
-    build();
-    improve();
-}
-```
-
----
-
-# Contact
-
-```yaml
-Email:
-  weiminkong2@gmail.com
-
-X:
-  @naq37045
-
-GitHub:
-  github.com/weimin69
-```
-
----
-
-<div align="center">
-
-```text
-──────────────────────────────────────────────
-
-$ cargo build
-
-Compiling future...
-
-Finished successfully.
-
-──────────────────────────────────────────────
-```
-
-</div>
+One more thing
+--------------
+I really enjoy learning about technology.
+I also love watching anime in my free time.
+Feel free to drop me an email anytime if you'd like to chat or share something!
